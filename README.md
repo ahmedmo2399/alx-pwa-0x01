@@ -111,4 +111,4 @@ The API returns the following error codes:
 * Use the `Authorization` header to include the JWT token for protected endpoints.
 * Handle errors and exceptions properly to ensure a smooth user experience.
 * Use the API responsibly and do not overload the server with excessive requests.
-=====================================
+=====================================# alx-pwa-0x01
